@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="file.css"?>
+
+<SongList>
+  <Song title="We're Good">
+    <Artists>
+      <Artist>Dua Lipa</Artist>
+    </Artists>
+    <Genres>
+	<Genre>Pop</Genre>
+	<Genre>R and B</Genre>
+    </Genres>
+    <ReleaseYear>2021</ReleaseYear>
+  </Song>
+
+  <Song title="Good Days">
+    <Artists>
+	<Artist>SZA</Artist>
+	<Artist>Jacob Collier</Artist>
+    </Artists>
+    <Genres>
+	<Genre>R and B</Genre>
+	<Genre>Soul</Genre>
+    </Genres>
+    <ReleaseYear>2020</ReleaseYear>
+  </Song>
+
+  <Song title="Leave the Door Open">
+    <Artists>
+	<Artist>Silk Sonic</Artist>
+	<Artist>Bruno Mars</Artist>
+	<Artist>Anderson Paak</Artist>
+    </Artists>
+    <Genres>
+	<Genre>R and B</Genre>
+	<Genre>Soul</Genre>
+	<Genre>Pop</Genre>
+    </Genres>
+    <ReleaseYear>2021</ReleaseYear>
+  </Song>
+
+  <Song title="Crazy in Love">
+    <Artists>
+	<Artist>Beyonce</Artist>
+	<Artist>Jay-Z</Artist>
+    </Artists>
+    <Genres>
+	<Genre>Pop</Genre>
+    </Genres>
+    <ReleaseYear>2003</ReleaseYear>
+  </Song>
+
+  <Song title="Uptown Funk">
+    <Artists>
+	<Artist>Mark Ronson</Artist>
+	<Artist>Bruno Mars</Artist>
+    </Artists>
+    <Genres>
+	<Genre>Pop</Genre>
+	<Genre>Soul</Genre>
+	<Genre>Boogie</Genre>
+    </Genres>
+    <ReleaseYear>2014</ReleaseYear>
+  </Song>
+
+  <Song title="Dancing Queen">
+    <Artists>
+	<Artist>ABBA</Artist>
+    </Artists>
+    <Genres>
+	<Genre>Disco</Genre>
+	<Genre>Pop</Genre>
+    </Genres>
+    <ReleaseYear>1976</ReleaseYear>
+  </Song>
+
+  <Song title="Don't Stop Believin">
+    <Artists>
+	<Artist>Journey</Artist>
+    </Artists>
+    <Genres>
+	<Genre>Rock</Genre>
+    </Genres>
+    <ReleaseYear>1981</ReleaseYear>
+  </Song>
+
+  <Song title="On the Floor">
+    <Artists>
+	<Artist>Jennifer Lopez</Artist>
+	<Artist>Pitbull</Artist>
+    </Artists>
+    <Genres>
+	<Genre>Pop</Genre>
+	<Genre>Electropop</Genre>
+    </Genres>
+    <ReleaseYear>2011</ReleaseYear>
+  </Song>
+
+  <Song title="Party in the USA">
+    <Artists>
+	<Artist>Miley Cyrus</Artist>
+    </Artists>
+    <Genres>
+	<Genre>Pop</Genre>
+    </Genres>
+    <ReleaseYear>2009</ReleaseYear>
+  </Song>
+
+  <Song title="Just Dance">
+    <Artists>
+	<Artist>Lady Gaga</Artist>
+    </Artists>
+    <Genres>
+	<Genre>Electropop</Genre>
+    </Genres>
+    <ReleaseYear>2008</ReleaseYear>
+  </Song>
+</SongList>
